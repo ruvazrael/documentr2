@@ -39,5 +39,5 @@ group :test, :development do
 	gem 'autotest'
 	gem 'autotest-rails-pure'
 	gem 'autotest-fsevent'
-	gem 'autotest-rails-pure' 
+	gem 'spork'
 end	
