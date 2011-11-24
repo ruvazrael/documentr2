@@ -7,6 +7,9 @@ gem 'rails', '3.1.1'
 
 gem 'sqlite3'
 
+gem 'stylr', :git => 'git@github.com:provideal/stylr.git',:branch => "refactor"
+
+gem 'tabulatr', :git => 'https://github.com/provideal/tabulatr.git'
 
 # Gems used only for assets and not required
 # in production environments by default.
