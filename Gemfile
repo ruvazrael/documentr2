@@ -36,4 +36,8 @@ gem 'jquery-rails'
 group :test, :development do
 	gem 'rspec-rails', '~>2.7.0'
 	gem 'webrat', '~> 0.7.3'
+	gem 'autotest'
+	gem 'autotest-rails-pure'
+	gem 'autotest-fsevent'
+	gem 'autotest-rails-pure' 
 end	
